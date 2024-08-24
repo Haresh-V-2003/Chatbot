@@ -1,7 +1,3 @@
-import re
-import random
-import requests
-import json
 from os import path
 from functools import partial
 from .substitution import Substitution
